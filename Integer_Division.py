@@ -1,3 +1,2 @@
-a=int(input())
-b=a//10
-print(round(b,2))
+i=int(input())
+print(i//10)
