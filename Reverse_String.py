@@ -1,5 +1,4 @@
-def onish(gaddi_leke):
-    print(gaddi_leke[::-1])
-
-n=input() 
-onish(n)
+s=input()
+x=s.split(' ')
+y=' '.join(reversed(x))
+print(y)
